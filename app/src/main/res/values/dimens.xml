@@ -1,0 +1,31 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    // padding
+    <dimen name="padding5dp">5dp</dimen>
+    <dimen name="padding10dp">10dp</dimen>
+    <dimen name="padding15dp">15dp</dimen>
+    <dimen name="padding20dp">20dp</dimen>
+    <dimen name="padding25dp">25dp</dimen>
+    <dimen name="padding30dp">30dp</dimen>
+    <dimen name="padding35dp">35dp</dimen>
+
+    // margin
+    <dimen name="margin4dp">4dp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+    <dimen name="margin12dp">12dp</dimen>
+    <dimen name="margin16dp">16dp</dimen>
+    <dimen name="margin20dp">20dp</dimen>
+    <dimen name="margin24dp">24dp</dimen>
+    <dimen name="margin28dp">28dp</dimen>
+
+
+    // font size
+    <dimen name="font4sp">4sp</dimen>
+    <dimen name="font8sp">8sp</dimen>
+    <dimen name="font12sp">12sp</dimen>
+    <dimen name="font16sp">16sp</dimen>
+    <dimen name="font20sp">16sp</dimen>
+    <dimen name="font25sp">16sp</dimen>
+
+</resources>
